@@ -1,7 +1,7 @@
-# Hello Python – FastAPI Starter (uv)
+# Python Learning – using UV
 
 A minimal FastAPI project set up using **uv** for modern, isolated Python development.  
-This repository demonstrates a clean project bootstrap, basic routing, and proper environment management — without touching system Python.
+This repository demonstrates a clean project, basic routing, and proper environment management.
 
 ---
 
